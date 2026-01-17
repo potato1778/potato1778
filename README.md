@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Ruize 👋
 
-<!--
-**potato1778/potato1778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **M.Sc. Student in Computer Science** @ University of Gothenburg / Chalmers
+📍 Based in Gothenburg, Sweden 🇸🇪
 
-Here are some ideas to get you started:
+Focusing on **Distributed Systems**, **Cloud Native Infrastructure**, and **High-Performance Computing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Raft](https://img.shields.io/badge/Consensus-Raft-ff69b4?style=flat)
+
+#### 🔭 Currently Working on
+- **Distributed KV Store**: A fault-tolerant key-value store based on the **Raft** consensus algorithm.
+- **Chord DHT**: A scalable peer-to-peer lookup service.
+
+📫 **Contact**:  ruizeliu.heu@gmail.com
