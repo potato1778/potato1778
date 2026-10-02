@@ -19,7 +19,7 @@ Working on **AI infrastructure** and **distributed systems**. I like the problem
 - **Distributed KV Store**: a fault-tolerant key-value store on the **Raft** consensus algorithm, with leader election, log replication and persistence.
 
 #### 🧪 Selected Work
-- **Shield / MIMIC-IV**: extending the Shield framework in Java to anonymize real-time ICU waveform data, running NSGA-II over five seeds and 5,000 evaluations to raise the privacy score from 0.788 to 0.972.
+- **[Shield / MIMIC-IV](https://github.com/potato1778/shield-mimic-extension)**: extending the Shield framework in Java to anonymize real-time ICU waveform data, running NSGA-II over five seeds and 5,000 evaluations to raise the privacy score from 0.788 to 0.972.
 - **Retrieval-Augmented QA**: an end-to-end Chinese question-answering system with local embeddings and FAISS vector retrieval, grounded through an LLM API.
 
 🎯 Looking for a **Spring 2027 master's thesis** (30 hp, January to June 2027) in the Gothenburg area, on AI infrastructure, AI agents, AI systems security or distributed systems.
