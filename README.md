@@ -25,3 +25,11 @@ Working on **AI infrastructure** and **distributed systems**. I like the problem
 🎯 Looking for a **Spring 2027 master's thesis** (30 hp, January to June 2027) in the Gothenburg area, on AI infrastructure, AI agents, AI systems security or distributed systems.
 
 📫 **Contact**: ruizeliu.heu@gmail.com
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potato1778/potato1778/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potato1778/potato1778/output/github-snake.svg" />
+  <img alt="A snake slithering through my GitHub contribution graph" src="https://raw.githubusercontent.com/potato1778/potato1778/output/github-snake.svg" />
+</picture>
