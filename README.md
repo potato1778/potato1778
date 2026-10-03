@@ -1,4 +1,4 @@
-### Hi there, I'm Ruize 👋
+### Hi there, I'm Reese 👋
 
 🎓 **M.Sc. in Computer Systems and Cybersecurity** @ Chalmers University of Technology
 📍 Based in Gothenburg, Sweden 🇸🇪
