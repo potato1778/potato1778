@@ -51,7 +51,7 @@ Working on **AI infrastructure** and **distributed systems**. I like the enginee
     <img src="https://img.shields.io/badge/Xbox-potato1778-107c10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox Profile" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Nintendo%20Switch-SW--XXXX--XXXX--XXXX-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white" alt="Nintendo Switch" />
+  <img src="https://img.shields.io/badge/Nintendo%20Switch-SW--1150--0997--9413-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white" alt="Nintendo Switch Friend Code" />
 </p>
 
 📫 **Drop a message**: ruizeliu.heu@gmail.com
