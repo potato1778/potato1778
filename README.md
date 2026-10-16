@@ -44,12 +44,14 @@ Working on **AI infrastructure** and **distributed systems**. I like the enginee
 
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561198382922359" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-potato1778-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
+    <img src="https://img.shields.io/badge/Steam-Lilium-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://account.xbox.com/profile?gamertag=potato1778" target="_blank">
+    <img src="https://img.shields.io/badge/Xbox-potato1778-107c10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox Profile" />
   </a>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Nintendo%20Switch-SW--XXXX--XXXX--XXXX-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white" alt="Nintendo Switch" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Xbox-Gamertag-107c10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" />
 </p>
 
 📫 **Drop a message**: ruizeliu.heu@gmail.com
