@@ -1,6 +1,8 @@
-<img src="assets/va11_banner.jpg" width="100%" alt="VA-11 Hall-A Banner" />
+<p align="center">
+  <img src="assets/va11_banner.jpg" width="100%" alt="VA-11 Hall-A Banner" />
+</p>
 
-> *“Compiling codes, changing lives.”*
+<h3 align="center"><em>“Compiling codes, changing lives.”</em></h3>
 
 ### Hi there, I'm Reese 👋
 
@@ -39,6 +41,16 @@ Working on **AI infrastructure** and **distributed systems**. I like the enginee
 > From chill, cozy idle farming in *Stardew Valley* & *Rusty's Retirement*, to diving into Night City chaos in *Cyberpunk 2077* and clutching with Noble Team in *Halo: Reach* 🥔✨
 
 *(Systems habits never die: 1800+ hrs of Bongo Cat on the desktop, always tuning Lossless Scaling.)*
+
+<p align="center">
+  <a href="https://steamcommunity.com/profiles/76561198382922359" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-potato1778-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nintendo%20Switch-SW--XXXX--XXXX--XXXX-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white" alt="Nintendo Switch" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Xbox-Gamertag-107c10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" />
+</p>
 
 📫 **Drop a message**: ruizeliu.heu@gmail.com
 
