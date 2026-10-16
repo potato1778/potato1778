@@ -37,7 +37,7 @@ Working on **AI infrastructure** and **distributed systems**. I like the enginee
   <img src="assets/games_girls_vs_women.jpg" width="100%" alt="Games Girls Play vs Games Women Play" />
 </p>
 
-> *“两种游戏我都很爱~ (I love both worlds dearly!)”*  
+> *“I love both worlds dearly!”*  
 > From chill, cozy idle farming in *Stardew Valley* & *Rusty's Retirement*, to diving into Night City chaos in *Cyberpunk 2077* and clutching with Noble Team in *Halo: Reach* 🥔✨
 
 *(Systems habits never die: 1800+ hrs of Bongo Cat on the desktop, always tuning Lossless Scaling.)*
